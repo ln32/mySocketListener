@@ -1,2 +1,2 @@
-sourceA merge=ours
-sourceB merge=ours
+SourceA merge=ours
+SourceB merge=ours
